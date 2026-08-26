@@ -1,6 +1,6 @@
 ## Contador (mobile)
 
-Markson SR:
+Markson da Silva Ribeiro:
 
 É um app pra sistema android feito com Kotlin e Jetpack Compose.
 A ideia é o número do contador ficar guardado com o `rememberSaveable` e `mutableStateOf`.
